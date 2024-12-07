@@ -1,0 +1,37 @@
+[
+    {
+        "judul": "bj.habibie",
+        "penulis": "kimi",
+        "tahun": "2016",
+        "kategori": "biografi",
+        "dipinjam": "tidak"
+    },
+    {
+        "judul": "peri",
+        "penulis": "kimi",
+        "tahun": "2020",
+        "kategori": "fiksi",
+        "dipinjam": "ya"
+    },
+    {
+        "judul": "sikancil",
+        "penulis": "kimi",
+        "tahun": "2020",
+        "kategori": "dongeng",
+        "dipinjam": "tidak"
+    },
+    {
+        "judul": "kalkulus",
+        "penulis": "kimi",
+        "tahun": "2021",
+        "kategori": "sains dan matematika",
+        "dipinjam": "tidak"
+    },
+    {
+        "judul": "biologi",
+        "penulis": "kimi",
+        "tahun": "2010",
+        "kategori": "sains dan matematika",
+        "dipinjam": "tidak"
+    }
+]
